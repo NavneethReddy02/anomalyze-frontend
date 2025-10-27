@@ -13,4 +13,5 @@ The backend for Anomalyze (Python-based) is available separately here:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/BhuvanRaj01/anomalyze-frontend.git
-cd anomalyze
+cd Anomalyze
+
